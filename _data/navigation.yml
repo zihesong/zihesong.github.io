@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Contact"
+    url: /contact/
+
+  #- title: "Publications"
+  #  url: /publications/
+
+  #- title: "Talks"
+  #  url: /talks/    
+
+  #- title: "Teaching"
+  #  url: /teaching/    
+    
+  #- title: "Portfolio"
+  #  url: /portfolio/
+    
+  #- title: "Guide"
+  #  url: /markdown/
