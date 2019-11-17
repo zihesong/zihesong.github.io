@@ -9,7 +9,7 @@ redirect_from:
 ---
 
   Hi, This is Zihe Song. <br>
-  I am Currently pursuing a Master of Science degree in Computer Science at UTDallas, and working with Prof. Wei Yang.
+  I'm currently pursuing a Master of Science degree in Computer Science at UTDallas, and working with Prof. Wei Yang. My interested research areas include game testing, machine learning, artificial intelligence, etc.
   
 
 Education
@@ -20,8 +20,8 @@ Education
 
 Research
 ======
-* Department of Computer Science, UTDallas, Oct. 2019 - Present
-* Advisor: Wei Yang
+* Department of Computer Science， The University of Texas at Dallas, Oct. 2019 - Present <br>
+Advisor: Wei Yang
 
 
 Projects
