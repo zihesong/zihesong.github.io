@@ -14,15 +14,19 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, The University of Texas at Dallas, 2020 (expected)
-* B.E. in Communication Engineering, University of Electronic Science and Technology of China, 2018
+* M.S. in Computer Science, The University of Texas at Dallas, 2018 - 2020
+* B.E. in Communication Engineering, University of Electronic Science and Technology of China, 2014 - 2018
+
+
+Research
+======
+* Department of Computer Science, UTDallas, Oct. 2019 - Present
+* Advisor: Wei Yang
 
 
 Projects
 ======
-* Automated Testing for WeChat mini games : Oct. 2019 - Present <br> 
-  * Combining with reinforcement learning techniques to create automated testing model for WeChat mini games.
-    
+
     
 * Santander Customer Transaction Prediction : Mar. 2019 - Apr. 2019 <br> 
         _Primary language: Python_
