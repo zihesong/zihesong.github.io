@@ -21,7 +21,7 @@ Education
 
 Research
 ======
-* Department of Computer Science, UTDallas, Oct. 2019 - Present <br>
+* Department of Computer Science, UTDallas, Oct. 2019 - Current <br>
 Advisor: Wei Yang
 
 
@@ -45,7 +45,6 @@ Projects
   * Using evolutionary algorithms and reinforcement learning techniques to build the model.
     
 * Santander Customer Transaction Prediction : Mar. 2019 - Apr. 2019 <br> 
-        _Primary language: Python_
   * Created binary classification models based on Light GBM, GNB and SVM algorithms to predict whether the customer will make a transaction with Santander.
   * The dataset contains 200 numerical features and 200,000 instances, the AUC of LGBM
 model is up to 0.90.
