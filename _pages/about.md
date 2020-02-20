@@ -9,12 +9,13 @@ redirect_from:
 ---
 
   Hi, This is Zihe Song. <br>
-  I'm currently pursuing a Master of Science degree in Computer Science at UTDallas, and working with Prof. Wei Yang. My interested research areas are game testing, machine learning, artificial intelligence, etc.
+  I'm currently pursuing a Ph.D. degree in Computer Science at UTDallas, and working with Prof. Wei Yang. My interested research areas are mobile testing and machine learning.
   
 
 Education
 ======
-* M.S. in Computer Science, The University of Texas at Dallas, 2018 - 2020
+* Ph.D. in computer Science, The University of Texas at Dallas, 2020 - Current
+* M.S. in Computer Science, The University of Texas at Dallas, 2018 - Current
 * B.E. in Communication Engineering, University of Electronic Science and Technology of China, 2014 - 2018
 
 
@@ -24,9 +25,24 @@ Research
 Advisor: Wei Yang
 
 
+Publication
+======
+* An Automated Framework for Gaming Platform to Test Multiple Games, Zihe Song
+Accepted by 42nd International Conference on Software Engineering ACM Student Research Competition (ICSE 2020 SRC)
+
+
 Projects
 ======
 
+* Mobile Application Testing for Low-power Mode : Feb. 2020 - Current <br>
+  * Investigating system impact on applications in power saving mode. 
+  
+* Flaky Test in Mobile UI Testing :  Feb. 2020 - Current <br>
+  * Analyzing flaky tests occurred in mobile application UI testing. 
+  
+* Automated Testing Framework for WeChat mini-games : Oct. 2019 - Current <br>
+  * Designing an automated testing framework for multiple WeChat mini-games.
+  * Using evolutionary algorithms and reinforcement learning techniques to build the model.
     
 * Santander Customer Transaction Prediction : Mar. 2019 - Apr. 2019 <br> 
         _Primary language: Python_
@@ -36,25 +52,21 @@ model is up to 0.90.
 
 
 * Viola-Jones Face Detection : Mar. 2019                   
-        _Primary language: Python_
   * Wrote code to implement face and blink recognition on real-time photo based on Viola-Jones Algorithm.
   * The detection accuracy is up to 85%.
   
   
 * ERC20 Token Transactions Analysis : Nov. 2018 - Dec. 2018 <br> 
-        _Primary language: R_
   * Worked with another team member to create discrete distribution models for an ERC20 Token.
   * Analyzed the correlation between number of transactions and price, amount, transaction party, etc.
 
 
 * Unix V6 File System : Nov. 2018 - Dec. 2018<br> 
-        _Primary language: C_
   * Worked with another team member to create a Unix V6 file system.
   * Individually wrote code to write, read and delete large files (up to 4 GB). 
 
 
 * eBay Database System : Apr. 2019 - May. 2019<br> 
-        _Primary language: SQL_
   * Designed a database system for eBay in 3rd normal form, include procedures and triggers.
   
   
