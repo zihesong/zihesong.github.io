@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-* An Automated Framework for Gaming Platform to Test Multiple Games, Zihe Song
+* An Automated Framework for Gaming Platform to Test Multiple Games, Zihe Song <br>
 Accepted by 42nd International Conference on Software Engineering ACM Student Research Competition (ICSE 2020 SRC)
