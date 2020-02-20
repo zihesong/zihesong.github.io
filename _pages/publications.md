@@ -7,8 +7,16 @@ redirect_from:
   - /resume
 ---
 
-* __Automated Testing for WeChat mini games__ : Oct. 2019 - Present <br> 
-  * Combining with reinforcement learning techniques to create automated testing model for WeChat mini games.<br>
+* __Mobile Application Testing for Low-power Mode__ : Feb. 2020 - Current <br>
+  * Investigating system impact on applications in power saving mode. 
+  
+* __Flaky Test in Mobile UI Testing__ :  Feb. 2020 - Current <br>
+  * Analyzing flaky tests occurred in mobile application UI testing. 
+  
+
+* __Automated Testing for WeChat mini games__ : Oct. 2019 - Current <br> 
+  * Designing an automated testing framework for multiple WeChat mini-games.
+  * Using evolutionary algorithms and reinforcement learning techniques to build the model.
     
     
 * __Santander Customer Transaction Prediction__ : Mar. 2019 - Apr. 2019 <br> 
