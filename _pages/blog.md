@@ -6,5 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% for post in site.publications %} {% include archive-single-cv.html %} {% endfor %}
+
+[Download my resume here](http://zihesong.github.io/files/CV.pdf)
 {% include base_path %}
