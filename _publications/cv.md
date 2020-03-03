@@ -1,8 +1,6 @@
 ---
 title: "Resume"
 collection: cv
-permalink: /cv/resume
+permalink: /cv
 paperurl: 'http://zihesong.github.io/files/cv.pdf'
 ---
-
-[Download Resume here](http://zihesong.github.io/files/cv.pdf)
