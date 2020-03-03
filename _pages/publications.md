@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+<br>
 * __Mobile Application Testing for Low-power Mode__ : Feb. 2020 - Current <br>
   * Investigating system impact on applications in power saving mode. 
   
