@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+<br>
 {% include base_path %}
 
 * An Automated Framework for Gaming Platform to Test Multiple Games, Zihe Song <br>
