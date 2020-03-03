@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 collection: publications
-permalink: /cv/cv
+permalink: /cv
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
