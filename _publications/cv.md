@@ -1,7 +1,7 @@
 ---
 title: "Resume"
-collection: publications
-permalink: /cv
+collection: cv
+permalink: /cv/resume
 paperurl: 'http://zihesong.github.io/files/cv.pdf'
 ---
 
