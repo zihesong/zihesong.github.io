@@ -15,7 +15,7 @@ redirect_from:
   * Analyzing flaky tests occurred in mobile application UI testing. 
   
 
-* __Automated Testing for WeChat mini games__ : Oct. 2019 - Current <br> 
+* __Automated Testing for WeChat mini games__ : Nov. 2019 - Feb. 2020 <br> 
   * Designing an automated testing framework for multiple WeChat mini-games.
   * Using evolutionary algorithms and reinforcement learning techniques to build the model.
     
