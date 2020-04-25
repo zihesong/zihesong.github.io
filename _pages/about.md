@@ -40,7 +40,7 @@ Projects
 * Flaky Test in Mobile UI Testing :  Feb. 2020 - Current <br>
   * Analyzing flaky tests occurred in mobile application UI testing. 
   
-* Automated Testing Framework for WeChat mini-games : Oct. 2019 - Current <br>
+* Automated Testing Framework for WeChat mini-games : Nov. 2019 - Feb. 2020 <br>
   * Designing an automated testing framework for multiple WeChat mini-games.
   * Using evolutionary algorithms and reinforcement learning techniques to build the model.
     
