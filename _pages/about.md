@@ -27,8 +27,11 @@ Advisor: Wei Yang
 
 Publication
 ======
+* An Empirical Analysis of UI-based Flaky Tests, A. Romano, Z. Song, S. Grandhi, W. Yang, W. Wang
+Accepted by 43nd International Conference on Software Engineering (ICSE'21)
+
 * An Automated Framework for Gaming Platform to Test Multiple Games, Zihe Song
-Accepted by 42nd International Conference on Software Engineering ACM Student Research Competition (ICSE 2020 SRC)
+Accepted by 42nd International Conference on Software Engineering ACM Student Research Competition (ICSE'20 SRC)
 
 
 Projects
