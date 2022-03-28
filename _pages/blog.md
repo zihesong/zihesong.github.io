@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 <br>
-[Download my resume here](http://zihesong.github.io/files/CV.pdf)
+[Download my resume here](http://zihesong.github.io/files/Resume_ZiheSong.pdf)
 {% include base_path %}
