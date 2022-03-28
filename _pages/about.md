@@ -14,26 +14,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in computer Science, The University of Texas at Dallas, 2020 - Current
-* M.S. in Computer Science, The University of Texas at Dallas, 2018 - 2020
-* B.E. in Communication Engineering, University of Electronic Science and Technology of China, 2014 - 2018
+* Ph.D. in computer Science, The University of Texas at Dallas, *2020 - Current*
+* M.S. in Computer Science, The University of Texas at Dallas, *2018 - 2020*
+* B.E. in Communication Engineering, University of Electronic Science and Technology of China, *2014 - 2018*
 
 
 Internship
 ======
-* NetEase Fuxi Lab Summer Intern, 2020
+* NetEase Fuxi Lab Summer Intern, *2020*
   * Multi-style Imitation Learning Framework for Game Testing
 
 
 Publication
 ======
-* NICGSlowDown: Evaluating the Efficiency Robustness of Neural Image Caption Generation Models, S. Chen, __Z. Song__, M. Haque, C. Liu, W. Yang <br>
+* NICGSlowDown: Evaluating the Efficiency Robustness of Neural Image Caption Generation Models
+    *S. Chen, __Z. Song__, M. Haque, C. Liu, W. Yang* <br>
     Accepted by 2022 Conference on Computer Vision and Pattern Recognition (CVPR’22)
 
-* An Empirical Analysis of UI-based Flaky Tests, A. Romano, __Z. Song__, S. Grandhi, W. Yang, W. Wang <br>
+* An Empirical Analysis of UI-based Flaky Tests, A. Romano
+    *__Z. Song__, S. Grandhi, W. Yang, W. Wang* <br>
     Accepted by 43nd International Conference on Software Engineering (ICSE'21)
 
-* An Automated Framework for Gaming Platform to Test Multiple Games, __Z. Song__ <br>
+* An Automated Framework for Gaming Platform to Test Multiple Games
+    *__Z. Song__* <br>
     Accepted by 42nd International Conference on Software Engineering ACM Student Research Competition (ICSE'20 SRC)
 
 
