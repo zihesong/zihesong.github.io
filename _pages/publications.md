@@ -10,7 +10,7 @@ redirect_from:
 <br>
   
 * __Availability Analysis of Existing Android Testing, Record and Replay Tools__  
-  *Investigating the usability and effectiveness of existing record and replay tools in Android testing.
+  *Investigating the usability and effectiveness of existing record and replay tools in Android testing.  
   *Analyzing the reproducibility of different types of bugs in Android apps.
 * __Automated Flaky Test Fixing Framework for Web UI Testing__  
   *Designing an automated fixing framework to detect and fix UI flakiness in web e2e testing.
