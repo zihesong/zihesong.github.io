@@ -8,11 +8,6 @@ redirect_from:
 ---
 
 <br>
-* __Mobile Application Testing for Low-power Mode__ : Feb. 2020 - Current <br>
-  * Investigating system impact on applications in power saving mode. 
-  
-* __Flaky Test in Mobile UI Testing__ :  Feb. 2020 - Current <br>
-  * Analyzing flaky tests occurred in mobile application UI testing. 
   
 * __Availability Analysis of Existing Android Testing, Record and Replay Tools__
   *Investigating the usability and effectiveness of existing record and replay tools in Android testing.
