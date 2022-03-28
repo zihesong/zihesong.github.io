@@ -14,33 +14,15 @@ redirect_from:
 * __Flaky Test in Mobile UI Testing__ :  Feb. 2020 - Current <br>
   * Analyzing flaky tests occurred in mobile application UI testing. 
   
-
-* __Automated Testing for WeChat mini games__ : Nov. 2019 - Feb. 2020 <br> 
-  * Designing an automated testing framework for multiple WeChat mini-games.
-  * Using evolutionary algorithms and reinforcement learning techniques to build the model.
-    
-    
-* __Santander Customer Transaction Prediction__ : Mar. 2019 <br> 
-  * Created binary classification models based on Light GBM, GNB and SVM algorithms to predict whether the customer will make a transaction with Santander.
-  * The dataset contains 200 numerical features and 200,000 instances, the AUC of LGBM
-model is up to 0.90. <br>
-
-
-* __Viola-Jones Face Detection__ : Mar. 2019 <br>                  
-  * Wrote code to implement face and blink recognition on real-time photo based on Viola-Jones Algorithm.
-  * The detection accuracy is up to 85%. <br>
-  
-  
-* __ERC20 Token Transactions Analysis__ : Nov. 2018 <br> 
-  * Worked with another team member to create discrete distribution models for an ERC20 Token.
-  * Analyzed the correlation between number of transactions and price, amount, transaction party, etc. <br>
-
-
-* __Unix V6 File System__ : Dec. 2018 <br> 
-  * Worked with another team member to create a Unix V6 file system.
-  * Individually wrote code to write, read and delete large files (up to 4 GB). <br>
-
-
-* __eBay Database System__ : Apr. 2019 <br> 
-  * Designed a database system for eBay in 3rd normal form, include procedures and triggers. <br>
-  
+* __Availability Analysis of Existing Android Testing, Record and Replay Tools__
+  *Investigating the usability and effectiveness of existing record and replay tools in Android testing.
+  *Analyzing the reproducibility of different types of bugs in Android apps.
+* __Automated Flaky Test Fixing Framework for Web UI Testing__ 		   		       
+  *Designing an automated fixing framework to detect and fix UI flakiness in web e2e testing.
+  *Fixing flaky tests caused by asynchronization by recording and tracking DOM mutations.
+* __Data Consistency Level Testing and Validation in Multiple Databases__     			      
+  *Designing algorithms to validate different data consistency levels (e.g., causal consistency).
+  *Setting up on multiple databases (e.g., Galera Cluster, TiDB, FaunaDB) for evaluation.
+* __Evaluating the Performance of Neural Machine Translation Systems__         			      
+  *Designing new adversarial attack methodology for existing Neural Machine Translation Systems.
+  *Evaluating the efficiency-robustness of NMT systems under attack.
