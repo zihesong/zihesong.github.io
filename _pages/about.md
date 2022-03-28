@@ -27,15 +27,15 @@ Internship
 
 Publication
 ======
-* NICGSlowDown: Evaluating the Efficiency Robustness of Neural Image Caption Generation Models <br>
+* _NICGSlowDown: Evaluating the Efficiency Robustness of Neural Image Caption Generation Models_ <br>
     *S. Chen, __Z. Song__, M. Haque, C. Liu, W. Yang* <br>
     Accepted by 2022 Conference on Computer Vision and Pattern Recognition (CVPR’22)
 
-* An Empirical Analysis of UI-based Flaky Tests <br>
+* _An Empirical Analysis of UI-based Flaky Tests_ <br>
     *A. Romano, __Z. Song__, S. Grandhi, W. Yang, W. Wang* <br>
     Accepted by 43nd International Conference on Software Engineering (ICSE'21)
 
-* An Automated Framework for Gaming Platform to Test Multiple Games <br>
+* _An Automated Framework for Gaming Platform to Test Multiple Games_ <br>
     *__Z. Song__* <br>
     Accepted by 42nd International Conference on Software Engineering ACM Student Research Competition (ICSE'20 SRC)
 
@@ -44,26 +44,24 @@ Projects
 ======
 
 * Availability Analysis of Existing Android Testing, Record and Replay Tools
-  * Investigating the usability and effectiveness of existing record and replay tools in Android testing.
-  * Analyzing the reproducibility of different types of bugs in Android apps.
+  * _Investigating the usability and effectiveness of existing record and replay tools in Android testing._
+  * _Analyzing the reproducibility of different types of bugs in Android apps._
 * Automated Flaky Test Fixing Framework for Web UI Testing  		   		       
-  * Designing an automated fixing framework to detect and fix UI flakiness in web e2e testing.
-  * Fixing flaky tests caused by asynchronization by recording and tracking DOM mutations.
+  * _Designing an automated fixing framework to detect and fix UI flakiness in web e2e testing._
+  * _Fixing flaky tests caused by asynchronization by recording and tracking DOM mutations._
 * Data Consistency Level Testing and Validation in Multiple Databases     			      
-  * Designing algorithms to validate different data consistency levels (e.g., causal consistency).
-  * Setting up on multiple databases (e.g., Galera Cluster, TiDB, FaunaDB) for evaluation.
+  * _Designing algorithms to validate different data consistency levels (e.g., causal consistency)._
+  * _Setting up on multiple databases (e.g., Galera Cluster, TiDB, FaunaDB) for evaluation._
 * Evaluating the Performance of Neural Machine Translation Systems         			      
-  * Designing new adversarial attack methodology for existing Neural Machine Translation Systems.
-  * Evaluating the efficiency-robustness of NMT systems under attack.
+  * _Designing new adversarial attack methodology for existing Neural Machine Translation Systems._
+  * _Evaluating the efficiency-robustness of NMT systems under attack._
 
   
   
 Skills
 ======
 * Programming languages
-  * C, Python, Java, SQL, R
-* Operating Systems
-  * Mac(OSX), Windows, Linux(Ubuntu)
+  * C, Python, Java, SQL
 
 
 Relevant Coursework
