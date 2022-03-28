@@ -28,16 +28,16 @@ Internship
 Publication
 ======
 * _NICGSlowDown: Evaluating the Efficiency Robustness of Neural Image Caption Generation Models_ <br>
-    *S. Chen, __Z. Song__, M. Haque, C. Liu, W. Yang* <br>
-    Accepted by 2022 Conference on Computer Vision and Pattern Recognition (CVPR'22)
+        *S. Chen, __Z. Song__, M. Haque, C. Liu, W. Yang* <br>
+        Accepted by 2022 Conference on Computer Vision and Pattern Recognition (CVPR'22)
 
 * _An Empirical Analysis of UI-based Flaky Tests_ <br>
-    *A. Romano, __Z. Song__, S. Grandhi, W. Yang, W. Wang* <br>
-    Accepted by 43nd International Conference on Software Engineering (ICSE'21)
+        *A. Romano, __Z. Song__, S. Grandhi, W. Yang, W. Wang* <br>
+        Accepted by 43nd International Conference on Software Engineering (ICSE'21)
 
 * _An Automated Framework for Gaming Platform to Test Multiple Games_ <br>
-    *__Z. Song__* <br>
-    Accepted by 42nd International Conference on Software Engineering ACM Student Research Competition (ICSE'20 SRC)
+        *__Z. Song__* <br>
+        Accepted by 42nd International Conference on Software Engineering ACM Student Research Competition (ICSE'20 SRC)
 
 
 Projects
