@@ -19,5 +19,5 @@ redirect_from:
   _Accepted by 43nd International Conference on Software Engineering (ICSE'21)_
 
 * An Automated Framework for Gaming Platform to Test Multiple Games <br>
-&ensp;&ensp;_Z. Song_ <br>_
+&ensp;&ensp;_Z. Song_ <br>
   _Accepted by 42nd International Conference on Software Engineering ACM Student Research Competition (ICSE'20 SRC)_
