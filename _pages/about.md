@@ -9,7 +9,7 @@ redirect_from:
 ---
 
   Hi, This is Zihe Song. <br>
-  I'm currently pursuing a Ph.D. degree in Computer Science at UTDallas, and working with Prof. Wei Yang. My interested research areas are software testing and reinforcement learning.
+  I'm currently pursuing a Ph.D. degree in Computer Science at UT Dallas, and working with Prof. Wei Yang. My research interests focus on software testing.
   
 
 Education
@@ -27,6 +27,18 @@ Internship
 
 Publication
 ======
+* Can you mimic me? Exploring the Use of Android Record & Replay Tools in Debugging <br>
+&ensp;&ensp;__Z. Song__, S Mansur, R. Rathnasuriya, Y. Fatima, W. Yang, K. Moran, W. Lam <br>
+  _Accepted by MobileSoft 2025_
+
+* Guardian: A Runtime Framework for LLM-Based UI Exploration <br>
+&ensp;&ensp;D. Ran, H. Wang, __Z. Song__, M. Wu, Y. Cao, Y. Zhang, W. Yang, T. Xie <br>
+  _Accepted by ISSTA 2024_
+
+* WEFix: Intelligent Automatic Generation of Explicit Waits for Efficient Web End-to-End Flaky Tests <br>
+X. Liu, __Z. Song__, W. Fang, W. Yang, W. Wang <br>
+  _Accepted by WWW 2024_
+  
 * An Empirical Analysis of Compatibility Issues for Industrial Mobile Games <br>
 &ensp;&ensp;__Z. Song__, Y. Chen, L. Ma, S. Lu, H. Lin, C. Fan, W. Yang <br>
   _Accepted by ISSRE 2022_
@@ -48,31 +60,3 @@ Publication
   _Accepted by ICSE 2020 SRC_
 
 
-Projects
-======
-
-* Availability Analysis of Existing Android Testing, Record and Replay Tools
-  * _Investigating the usability and effectiveness of existing record and replay tools in Android testing._
-  * _Analyzing the reproducibility of different types of bugs in Android apps._
-* Automated Flaky Test Fixing Framework for Web UI Testing  		   		       
-  * _Designing an automated fixing framework to detect and fix UI flakiness in web e2e testing._
-  * _Fixing flaky tests caused by asynchronization by recording and tracking DOM mutations._
-* Data Consistency Level Testing and Validation in Multiple Databases     			      
-  * _Designing algorithms to validate different data consistency levels (e.g., causal consistency)._
-  * _Setting up on multiple databases (e.g., Galera Cluster, TiDB, FaunaDB) for evaluation._
-* Evaluating the Performance of Neural Machine Translation Systems         			      
-  * _Designing new adversarial attack methodology for existing Neural Machine Translation Systems._
-  * _Evaluating the efficiency-robustness of NMT systems under attack._
-
-  
-  
-Skills
-======
-* Programming languages
-  * C, Python, Java, SQL
-
-
-Relevant Coursework
-======
-Machine Learning, Computer Vision, Statistics in Data Science, Database Design, Algorithms Analysis and Data Structures, Operating Systems, Linear Algebra, Calculus, Data Representation, Combinatorics and Graph Algorithms, Design and Analysis of Computer Algorithms
-  
