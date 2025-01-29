@@ -10,6 +10,18 @@ redirect_from:
 <br>
 {% include base_path %}
 
+* Can you mimic me? Exploring the Use of Android Record & Replay Tools in Debugging <br>
+&ensp;&ensp;__Z. Song__, S Mansur, R. Rathnasuriya, Y. Fatima, W. Yang, K. Moran, W. Lam <br>
+  _Accepted by MobileSoft 2025_
+
+* Guardian: A Runtime Framework for LLM-Based UI Exploration <br>
+&ensp;&ensp;D. Ran, H. Wang, __Z. Song__, M. Wu, Y. Cao, Y. Zhang, W. Yang, T. Xie <br>
+  _Accepted by ISSTA 2024_
+
+* WEFix: Intelligent Automatic Generation of Explicit Waits for Efficient Web End-to-End Flaky Tests <br>
+X. Liu, __Z. Song__, W. Fang, W. Yang, W. Wang <br>
+  _Accepted by WWW 2024_
+  
 * An Empirical Analysis of Compatibility Issues for Industrial Mobile Games <br>
 &ensp;&ensp;__Z. Song__, Y. Chen, L. Ma, S. Lu, H. Lin, C. Fan, W. Yang <br>
   _Accepted by ISSRE 2022_
