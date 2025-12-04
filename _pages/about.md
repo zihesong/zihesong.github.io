@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate in Computer Science at UT Dallas · Research on LLMs, UI testing, and intelligent interaction
 
 profile:
   align: right
