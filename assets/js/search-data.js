@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Download my CV in English or Chinese below.",
+          description: "This is my Resume.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
