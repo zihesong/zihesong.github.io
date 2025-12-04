@@ -2,96 +2,124 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Zihe Song (宋子鹤)
+    - name: Email
+      value: zihe.song@utdallas.edu
+    - name: Website
+      value: https://zihesong.github.io
+    - name: Location
+      value: Richardson, Texas, USA
+    - name: Summary
+      value: >
+        PhD candidate in Computer Science at UT Dallas. Research focuses on LLM-driven
+        UI agents, mobile testing, software reliability, and efficiency robustness of deep models.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: The University of Texas at Dallas
+      year: 2020–present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Advisor: Dr. Wei Yang.
+        - Specializing in Android systems, program analysis, ML infrastructure, and large-scale debugging and testing.
+        - Publications across ISSTA, USENIX Security, CVPR, ASPLOS, ICSE, MobileSoft.
+        - Finalist in Amazon Nova AI Challenge.
 
-- title: Experience
+    - title: M.S. in Computer Science
+      institution: The University of Texas at Dallas
+      year: 2018–2020
+
+    - title: B.Eng. in Communication Engineering
+      institution: University of Electronic Science and Technology of China (UESTC)
+      year: 2014–2018
+
+- title: Competitions
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Amazon Nova AI Challenge – Finalist
+      institution: Amazon Science
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Published in Amazon Science Trusted AI 2025.
+        - Designed adversarial attack strategies uncovering high-severity LLM vulnerabilities.
+        - Contributed to COMET, improving evaluation throughput and automated red-teaming.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "TaOPT: Tool-agnostic optimization of parallelized automated mobile UI testing (Co-first author), ASPLOS 2025"
+    - "Can You Mimic Me? Exploring the use of Android Record & Replay tools in debugging (First author), MOBILESoft 2025"
+    - "An investigation on numerical bugs in GPU programs towards automated bug detection, ISSTA 2025"
+    - "SoK: Efficiency robustness of dynamic deep learning systems (Co-second author), USENIX Security 2025"
+    - "Guardian: A runtime framework for LLM-based UI exploration, ISSTA 2024"
+    - "WEFix: Intelligent automatic generation of explicit waits for efficient web end-to-end flaky tests, WWW 2024"
+    - "NICGSlowDown: Evaluating the efficiency robustness of neural image caption generation models (Co-first author), CVPR 2022"
+    - "An empirical analysis of compatibility issues for industrial mobile games (First author), ISSRE 2022"
+    - "NMTSloth: Understanding and testing efficiency degradation of neural machine translation systems, ESEC/FSE 2022"
+    - "An empirical analysis of UI-based flaky tests (Co-first author), ICSE 2021"
+    - "An automated framework for gaming platform to test multiple games (First author), ICSE SRC 2020"
+
+- title: Projects
+  type: nested_list
+  contents:
+    - title: Multimodal Agent Framework for Android App Generation (ICLR 2026 under review)
+      items:
+        - Built a benchmark of 101 Android tasks requiring LLMs to generate full apps.
+        - Built a multi-agent system for documentation summarization, UI navigation, and test-case generation.
+        - Built an evaluation pipeline showing current LLMs reach ~18.8% functional correctness.
+
+    - title: LLM-Driven Smartphone Interaction Enhancement
+      items:
+        - Built an LLM-driven framework improving intent disambiguation and UI navigation robustness.
+        - Developed multi-agent reasoning using screenshots, view hierarchies, and natural-language instructions.
+        - Designed clarification-prompt models improving success rates for UI navigation tasks.
+
+- title: Internship
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: NetEase Fuxi AI Lab (Hangzhou, remote)
+      year: 2020
+      description:
+        - Built automated gameplay testing systems for diverse player behavior simulation.
+        - Applied GAIL-based RL for trajectory generation reducing QA workload.
+        - Conducted large-scale compatibility study informing debugging workflows and device optimization.
+
+- title: Research Supervision
+  type: list
+  contents:
+    - Supervised master's students on software engineering research; built multilingual automated bug-repair data collection framework; paper submitted to TOSEM.
+
+- title: Teaching Experience
+  type: list
+  contents:
+    - CS 1325 – Introduction to Programming (C/C++), Instructor, UT Dallas, Spring 2026.
+    - ECS 1100 – Introduction to Engineering and Computer Science, Instructor, UT Dallas, Fall 2025.
+    - Teaching Assistant for AI, Algorithm Design & Analysis, Big Data Analytics (2020–2025).
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming
+      items: [Python, Java, Kotlin, C/C++, Bash]
+    - title: Machine Learning / AI
+      items: [LLMs, Generative AI, NLP, Reinforcement Learning, ML Evaluation, Adversarial Testing]
+    - title: Systems & Mobile
+      items: [Android Framework, ADB, UIAutomator, View Hierarchy Analysis, Profiling, Tracing]
+    - title: Program Analysis
+      items: [Static Analysis, Dynamic Analysis, Debugging Tools, Runtime Monitoring]
+    - title: Tools & Frameworks
+      items: [CI/CD, Test Automation, Profiling Pipelines, PyTorch, TensorFlow, Docker, Git, Linux]
+
+- title: Languages
+  type: list
+  contents:
+    - Chinese (Native)
+    - English (Fluent – research & teaching)
+
+- title: Interests
+  type: list
+  contents:
+    - LLM agents, mobile UI testing, software reliability
+    - Tennis, skiing, baking, travel, photography
