@@ -1,8 +1,14 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
----
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+
 
 
 I am a PhD candidate in Computer Science at the University of Texas at Dallas, advised by Prof. Wei Yang.
