@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 description: This is my Resume.
-cv_pdf: CV_ZiheSong.pdf
+cv_pdf: Resume_ZiheSong.pdf
 toc:
   sidebar: left
 ---
