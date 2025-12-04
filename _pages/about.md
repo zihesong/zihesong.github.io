@@ -4,6 +4,7 @@ title: About
 permalink: /
 ---
 
+
 I am a PhD candidate in Computer Science at the University of Texas at Dallas, advised by Prof. Wei Yang.
 My research lies at the intersection of **large language models (LLMs)**, **mobile systems**, and **software testing**.
 
@@ -27,3 +28,11 @@ I am broadly interested in:
 
 When I am not doing research, I enjoy teaching, mentoring students, and working on course design.
 I also like tennis, skiing, and experimenting with new recipes.
+
+
+## 🔍 Job Market
+
+I am currently on the 2026 job market and open to opportunities in AI/ML, intelligent systems,
+LLM agents, and software engineering research. I welcome conversations with teams working on
+cutting-edge interaction systems, evaluation, and agentic workflows.
+Feel free to reach out at 📧 **zihe.song@utdallas.edu** if you believe there might be a fit.
