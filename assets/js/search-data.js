@@ -469,6 +469,13 @@ ninja.data = [{
           window.open("mailto:%7A%69%68%65.%73%6F%6E%67@%75%74%64%61%6C%6C%61%73.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/zoooesong", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
