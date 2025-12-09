@@ -48,17 +48,17 @@
 - title: Publications
   type: list
   contents:
-    - "TaOPT: Tool-agnostic optimization of parallelized automated mobile UI testing (Co-first author), ASPLOS 2025"
-    - "Can You Mimic Me? Exploring the use of Android Record & Replay tools in debugging (First author), MOBILESoft 2025"
+    - "TaOPT: Tool-agnostic optimization of parallelized automated mobile UI testing, ASPLOS 2025"
+    - "Can You Mimic Me? Exploring the use of Android Record & Replay tools in debugging, MOBILESoft 2025"
     - "An investigation on numerical bugs in GPU programs towards automated bug detection, ISSTA 2025"
-    - "SoK: Efficiency robustness of dynamic deep learning systems (Co-second author), USENIX Security 2025"
+    - "SoK: Efficiency robustness of dynamic deep learning systems, USENIX Security 2025"
     - "Guardian: A runtime framework for LLM-based UI exploration, ISSTA 2024"
     - "WEFix: Intelligent automatic generation of explicit waits for efficient web end-to-end flaky tests, WWW 2024"
-    - "NICGSlowDown: Evaluating the efficiency robustness of neural image caption generation models (Co-first author), CVPR 2022"
-    - "An empirical analysis of compatibility issues for industrial mobile games (First author), ISSRE 2022"
+    - "NICGSlowDown: Evaluating the efficiency robustness of neural image caption generation models, CVPR 2022"
+    - "An empirical analysis of compatibility issues for industrial mobile games, ISSRE 2022"
     - "NMTSloth: Understanding and testing efficiency degradation of neural machine translation systems, ESEC/FSE 2022"
-    - "An empirical analysis of UI-based flaky tests (Co-first author), ICSE 2021"
-    - "An automated framework for gaming platform to test multiple games (First author), ICSE SRC 2020"
+    - "An empirical analysis of UI-based flaky tests, ICSE 2021"
+    - "An automated framework for gaming platform to test multiple games, ICSE SRC 2020"
 
 - title: Projects
   type: nested_list
